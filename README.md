@@ -10,7 +10,7 @@
 LPU Campus Hub is a responsive, accessible, interactive web application developed to help university students and faculty members seamlessly access, filter, search, bookmark, and publish campus notices, circulars, examination schedules, fee updates, and placement drives.
 
 ### 🌐 Live Deployment
-- **Live Demo Link:** *(add your GitHub Pages link here after publishing)*
+- **Live Demo Link:** - https://shivam-kumar-agrahari.github.io/lpu-campus-hub/
 - **Offline Mode:** Fully functional simply by double-clicking `index.html` in any modern web browser without any local web server, database, or build tools.
 
 ---
